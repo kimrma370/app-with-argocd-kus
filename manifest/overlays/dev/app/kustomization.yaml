@@ -1,1 +1,7 @@
+resources:
+  - ../../../base
 
+images:
+  - name: nginx
+    newName: kimrma370/app-with-argocd-img
+    newTag: "6135a96"
